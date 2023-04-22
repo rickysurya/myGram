@@ -561,7 +561,7 @@ var SwaggerInfo = &swag.Spec{
 	BasePath:         "/",
 	Schemes:          []string{},
 	Title:            "myGram",
-	Description:      "API simpel dengan konsep seperti instagram",
+	Description:      "API sederhana sosial media",
 	InfoInstanceName: "swagger",
 	SwaggerTemplate:  docTemplate,
 }
