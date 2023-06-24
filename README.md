@@ -1,4 +1,4 @@
-## About MyGram
+# MyGram
 MyGram is a web service where user can post photo, add comment on other user photos and add social media. This project has 4 group endpoint which is:
 1. User :
     - Register [POST] 
